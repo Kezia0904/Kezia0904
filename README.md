@@ -5,7 +5,8 @@ Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
 Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-![https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fgatinho-gato-gato-e-computador-computer-cat-gif-22185203&psig=AOvVaw3Wny0KBO8OnjpOsjcpkyNi&ust=1717502593826000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCIjsh_mxv4YDFQAAAAAdAAAAABAJ](link)
+
+
 
 
 
